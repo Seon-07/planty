@@ -7,6 +7,6 @@
 <title>Cultivate Your Schedule!</title>
 </head>
 <body>
-
+	Hello!
 </body>
 </html>
